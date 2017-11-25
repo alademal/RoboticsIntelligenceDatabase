@@ -3,4 +3,4 @@ R.I.D. is a compilation of the combined knowledge and resources of Vanderbilt Ro
 
 click the wiki tab above or the link below to access it.
 
-https://github.com/vanderbiltrobotics/RoboticsInteligenceDatabase/wiki
+https://github.com/vanderbiltrobotics/RoboticsIntelligenceDatabase/wiki
